@@ -1,0 +1,142 @@
+/* css styles */
+
+html body {
+  b,strong {font-weight: 1000; color: darkred; font-variant: small-caps;};
+}
+
+
+strong {
+  font-weight: 1000; 
+  color: darkred;
+/* This is for Firefox... (when not contained by html body) */
+}
+
+b {
+  font-weight: 1000;
+  color: darkred;
+/* This is for Firefox... */
+}
+
+/* regular bold is font-weight 700; need heavier for Lux template main font */
+
+
+
+.foo {
+  
+}
+
+
+
+/* Footer */
+
+.nav-footer {
+  display:block;
+  padding-left: 3em;
+  padding-right: 3em;
+  margin-top: 1em;
+  border-top-width: 3px
+  border-top-style: solid;
+
+}
+/* deactivates flexbox so it stretches across full width of page*/
+
+.footer {
+  position:absolute;
+  font-size:14px;
+  text-align:left;
+  border-top-width: 3px
+  border-top-style: solid;
+  border-top-color: #000000;
+
+/*  bottom:0; */
+  
+}
+
+.footer ul{
+  text-align:left;
+}
+
+.footer-text-left {
+  font-size:12px; /* doesn't seem to work */
+/*  padding-left:40px; */
+/*  float:left; */
+/*  word-spacing:20px; */
+}
+.lightbox {
+/*  object-fit: cover !important; */
+/*  overflow: hidden !important; */
+/*  margin-bottom: 0px !important; */
+}
+
+
+/* .photo {
+  object-fit: cover !important;
+  overflow: hidden !important;
+  margin-bottom: 0px !important; 
+}
+ 
+*/
+
+
+/* .figure {
+  overflow: hidden; */  /* this matters */
+  /* margin-bottom: 0px !important; */
+/*  height: 150px;
+  width: 175px;
+}
+*/
+
+.figure {
+  /* overflow: hidden; */
+}
+
+.quarto-figure {
+  overflow: hidden;  /* matters */
+  margin-bottom: 0px;  /* matters */
+}
+
+.figure .lightbox #LMs {
+  overflow: hidden;  /* this matters */
+  /* margin-bottom: 0px !important; */
+  height: 150px;
+  width: 175px;
+}
+
+.figure .lightbox #Illustrations {
+  object-fit: contain;
+  overflow: hidden;  /* this matters */
+  /* margin-bottom: 0px !important; */
+  height: 300px;
+  width: 300px;
+}
+
+
+/*
+div #LMs :first-child {
+  overflow: hidden; */  /* this matters */
+  /* margin-bottom: 0px !important; */
+/*  height: 150px;
+  width: 175px;
+}
+*/
+
+.figure-img{
+  object-fit: cover;
+  overflow: hidden;
+  height: auto;
+/*  margin-bottom: 0px !important; */
+  width: auto;
+  max-width: 150%;
+  max-height: 150%;
+}
+
+
+.figure-img #Illustrations{
+  object-fit: contain;
+  overflow: hidden;
+  height: auto;
+/*  margin-bottom: 0px !important; */
+  width: auto;
+  max-width: 150%;
+  max-height: 150%;
+}

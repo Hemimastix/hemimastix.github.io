@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Hemimastix"
+  description: A protist attempting to code
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: resources.qmd
+        text: "Resources"
+      - href: gallery.qmd
+        text: Protist gallery
+  page-footer:
+    # is this a comment   "Protistology\n resources"
+    left: |
+      Yana Eglit 2026 | This work is licensed under CC BY-NC-SA 4.0 unless specified otherwise.
+      This site was made in Quarto using the Lux theme. Site coded without AI.
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
+#<!-- original theme: lux -->

@@ -1,0 +1,62 @@
+---
+title: About
+image: images/About_v2.jpg
+about:
+  template: broadside
+  image-width: 10em
+  image-shape: round
+---
+
+## Yana Eglit
+
+Researcher specialising in protist diversity and evolution, with particular interest in
+the variety among eukaryotic cellular architecture. I believe unicellular protists are where
+cell biology is at its most exciting, as everything the organism needs must fit inside that cell.
+Currently a [HFSP](https://www.hfsp.org/) postdoctoral fellow in the [Guichard/Hamel Lab](https://mocel.unige.ch/research-groups/guichard-hamel/overview)
+at the University of Geneva, Switzerland, where I am learning super-resolution imaging techniques (like expansion microscopy)
+and how to apply them to non-model protists.
+Previously was a postdoc in the [Gawryluk lab](https://protistlab.weebly.com/) at
+the University of Victoria, where I cultivated marine anaerobic eukaryotes for investigating the evolution of adaptation to life at low oxygen.
+Completed my PhD in 2022 with [Alastair G.B. Simpson](http://protists.biology.dal.ca/) in the Biology Department and
+Institute for Comparative Genomics at Dalhousie University, Halifax, NS, Canada,
+where I isolated, cultivated, and characterised novel branches of the Tree of Eukaryotes.
+
+## Key interests
+
+- **Exploration of new protist diversity by 'manual' identification and cultivation:** Cultivation enables downstream work on the organism by
+'domesticating' it for the lab, but also appears to access diversity that is not currently readily
+detected by environmental sequencing methods.
+I'm particularly interested in traditionally understudied protists: benthic heterotrophic flagellates
+from low-oxygen and/or high salt and/or high pH
+environments, and eukaryotrophs (protists that feed on other protists).
+
+- **Studying cell structure by light and electron microscopy:** Unicellular protists are where eukaryotic
+cell biology is truly at its best,
+since the individual cell must do (nearly^[Technically, symbioses and general ecology make none of us truly self-sufficient]) everything itself.
+I'm obsessed with trying to document rare or difficult to visualise aspects of protist biology, from predation to
+ cell division. The microbial world is just as complex and dynamic as the macroscopic flora and fauna one sees
+ on a walk through a forest, and we can only catch glimpses of it on a slide.
+<br> This provides some opportunity for [art](./gallery.html).
+
+- **Placing organisms in the tree of life by molecular phylogenetics:** I use both 'traditional' PCR-amplified
+Sanger-sequenced ribosomal small subunit rDNA ("18S") phylogenetics and Illumina-sequenced
+transcriptome-derived concatenated multi-gene phylogenomics for finding the closest known relatives of my organisms.
+ I have also worked on automating some of the process of preparing phylogenies for publication figures, and a tool
+ for a targetted search of short read metabarcoding datasets for sequences similar to an unpublished (and not yet
+ integrated in reference taxonomic databases) query.
+
+- **Using protists as teaching tools:** Many protists are safe, abundant, and easy to grow, therefore making them excellent candidates for use in teaching labs.
+I am also interested in accessing protists at biological field stations to teach methods in eukaryotic microbiology,
+such as identification, cultivation, and sequencing of strange new microbes. In June 2026, I will be living out this dream
+by co-organising and teaching at [MicroSEA](https://opbc.sciencesconf.org/), a protistology field course at Station Biologique de Roscoff, Bretagne, FR.
+
+
+## Links and contact
+
+- [ORCID](https://orcid.org/0000-0002-2178-3062)
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=tBMxOWYAAAAJ&view_op=list_works)
+
+- [GitHub](https://github.com/Hemimastix)
+
+- [current contact](https://mocel.unige.ch/research-groups/guichard-hamel/team/yana-eglit)

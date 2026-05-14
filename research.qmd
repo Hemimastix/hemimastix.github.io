@@ -1,0 +1,40 @@
+---
+title: "Research"
+---
+
+I am an evolutionary protistologist with a primary interest in discovering new eukaryotic microbes and placing them in the phylogenetic tree of life.
+
+
+
+## Biodiversity discovery
+
+
+
+
+## Cell morphology and ultrastructure
+
+For an example of my microscopy work (made using fantastic tools provided by current and past employers), as well as some art made with traditional media, check out the [Protist Gallery](gallery.qmd)
+
+
+## Phylogenetics and phylogenomics
+
+
+
+## Detecting novel organisms in existing metabarcoding databases
+
+
+## Protists as teaching tools
+
+Protists have been instrumental in many broadly-relevant discoveries (telomerase, function of the Golgi apparatus, details flagellar structure, eukaryotic anaerobic respiration, to name a few). As protists have largely disappeared from many curricula, I believe this wastes their incredible potential to illustrate and educate on core principles in biology.
+Furthermore, most protists do not pose any safety hazard, nor require ethics approval, and are thus appropriate to use in a standard classroom (though I'd bleach or autoclave the organisms after use just to be extra careful for environmental contamination concerns). While virtual labs are not quite the same thing as hands-on experiences, I think they can nevertheless be useful in their own way, and enable providing higher quality (expensive) microscopy images to teach image analysis.
+
+
+I am interested in developing teaching labs that illustrate a core cell biological concept using a protist model.
+
+### Foraminiferan reticulopodia to demonstrate microtubule motor proteins 
+
+### Stained Paramecium to show digestion 
+
+### World in a pond and/or beach
+
+### Links to other useful exercises

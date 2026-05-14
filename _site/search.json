@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mysite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Researcher specialising in protist diversity and evolution, with particular interest in the variety among eukaryotic cellular architecture. I believe unicellular protists are where cell biology is at its most exciting, as everything the organism needs must fit inside that cell. Currently a HFSP postdoctoral fellow in the Guichard/Hamel Lab at the University of Geneva, Switzerland, where I am learning super-resolution imaging techniques (like expansion microscopy) and how to apply them to non-model protists. Previously was a postdoc in the Gawryluk lab at the University of Victoria, where I cultivated marine anaerobic eukaryotes for investigating the evolution of adaptation to life at low oxygen. Completed my PhD in 2022 with Alastair G.B. Simpson in the Biology Department and Institute for Comparative Genomics at Dalhousie University, Halifax, NS, Canada, where I isolated, cultivated, and characterised novel branches of the Tree of Eukaryotes."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I am an evolutionary protistologist with a primary interest in discovering new eukaryotic microbes and placing them in the phylogenetic tree of life."
+  },
+  {
+    "objectID": "research.html#biodiversity-discovery",
+    "href": "research.html#biodiversity-discovery",
+    "title": "Research",
+    "section": "Biodiversity discovery",
+    "text": "Biodiversity discovery"
+  },
+  {
+    "objectID": "research.html#cell-morphology-and-ultrastructure",
+    "href": "research.html#cell-morphology-and-ultrastructure",
+    "title": "Research",
+    "section": "Cell morphology and ultrastructure",
+    "text": "Cell morphology and ultrastructure\nFor an example of my microscopy work (made using fantastic tools provided by current and past employers), as well as some art made with traditional media, check out the Protist Gallery"
+  },
+  {
+    "objectID": "research.html#phylogenetics-and-phylogenomics",
+    "href": "research.html#phylogenetics-and-phylogenomics",
+    "title": "Research",
+    "section": "Phylogenetics and phylogenomics",
+    "text": "Phylogenetics and phylogenomics"
+  },
+  {
+    "objectID": "research.html#detecting-novel-organisms-in-existing-metabarcoding-databases",
+    "href": "research.html#detecting-novel-organisms-in-existing-metabarcoding-databases",
+    "title": "Research",
+    "section": "Detecting novel organisms in existing metabarcoding databases",
+    "text": "Detecting novel organisms in existing metabarcoding databases"
+  },
+  {
+    "objectID": "research.html#protists-as-teaching-tools",
+    "href": "research.html#protists-as-teaching-tools",
+    "title": "Research",
+    "section": "Protists as teaching tools",
+    "text": "Protists as teaching tools\nProtists have been instrumental in many broadly-relevant discoveries (telomerase, function of the Golgi apparatus, details flagellar structure, eukaryotic anaerobic respiration, to name a few). As protists have largely disappeared from many curricula, I believe this wastes their incredible potential to illustrate and educate on core principles in biology. Furthermore, most protists do not pose any safety hazard, nor require ethics approval, and are thus appropriate to use in a standard classroom (though I’d bleach or autoclave the organisms after use just to be extra careful for environmental contamination concerns). While virtual labs are not quite the same thing as hands-on experiences, I think they can nevertheless be useful in their own way, and enable providing higher quality (expensive) microscopy images to teach image analysis.\nI am interested in developing teaching labs that illustrate a core cell biological concept using a protist model.\n\nForaminiferan reticulopodia to demonstrate microtubule motor proteins\n\n\nStained Paramecium to show digestion\n\n\nWorld in a pond and/or beach\n\n\nLinks to other useful exercises"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Protist micrograph and art gallery",
+    "section": "",
+    "text": "Work in progress (insert GeoCities-era-under-construction.gif). Made using Lightbox and Quarto."
+  },
+  {
+    "objectID": "gallery.html#light-microscopy",
+    "href": "gallery.html#light-microscopy",
+    "title": "Protist micrograph and art gallery",
+    "section": "Light microscopy",
+    "text": "Light microscopy"
+  },
+  {
+    "objectID": "gallery.html#electron-microscopy",
+    "href": "gallery.html#electron-microscopy",
+    "title": "Protist micrograph and art gallery",
+    "section": "Electron microscopy",
+    "text": "Electron microscopy"
+  },
+  {
+    "objectID": "gallery.html#traditional-media",
+    "href": "gallery.html#traditional-media",
+    "title": "Protist micrograph and art gallery",
+    "section": "Traditional media",
+    "text": "Traditional media"
+  },
+  {
+    "objectID": "gallery.html#digital-scientific-illustrations",
+    "href": "gallery.html#digital-scientific-illustrations",
+    "title": "Protist micrograph and art gallery",
+    "section": "Digital scientific illustrations",
+    "text": "Digital scientific illustrations"
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "About",
+    "section": "",
+    "text": "This is a work in progress. Trying out a link to nowhere."
+  },
+  {
+    "objectID": "about.html#more-stuff",
+    "href": "about.html#more-stuff",
+    "title": "Aboutttt",
+    "section": "",
+    "text": "Things I’m interested in:\n\nprotists\nprotists\nprotists"
+  },
+  {
+    "objectID": "about.html#links-and-contact",
+    "href": "about.html#links-and-contact",
+    "title": "About",
+    "section": "Links and contact",
+    "text": "Links and contact\n\nORCID\nGoogle Scholar\nGitHub\ncurrent contact"
+  },
+  {
+    "objectID": "about.html#key-interests",
+    "href": "about.html#key-interests",
+    "title": "About",
+    "section": "Key interests",
+    "text": "Key interests\n\nExploration of new protist diversity by ‘manual’ identification and cultivation: Cultivation enables downstream work on the organism by ‘domesticating’ it for the lab, but also appears to access diversity that is not currently readily detected by environmental sequencing methods. I’m particularly interested in traditionally understudied protists: benthic heterotrophic flagellates from low-oxygen and/or high salt and/or high pH environments, and eukaryotrophs (protists that feed on other protists).\nStudying cell structure by light and electron microscopy: Unicellular protists are where eukaryotic cell biology is truly at its best, since the individual cell must do (nearly1) everything itself. I’m obsessed with trying to document rare or difficult to visualise aspects of protist biology, from predation to cell division. The microbial world is just as complex and dynamic as the macroscopic flora and fauna one sees on a walk through a forest, and we can only catch glimpses of it on a slide.  This provides some opportunity for art.\nPlacing organisms in the tree of life by molecular phylogenetics: I use both ‘traditional’ PCR-amplified Sanger-sequenced ribosomal small subunit rDNA (“18S”) phylogenetics and Illumina-sequenced transcriptome-derived concatenated multi-gene phylogenomics for finding the closest known relatives of my organisms. I have also worked on automating some of the process of preparing phylogenies for publication figures, and a tool for a targetted search of short read metabarcoding datasets for sequences similar to an unpublished (and not yet integrated in reference taxonomic databases) query.\nUsing protists as teaching tools: Many protists are safe, abundant, and easy to grow, therefore making them excellent candidates for use in teaching labs. I am also interested in accessing protists at biological field stations to teach methods in eukaryotic microbiology, such as identification, cultivation, and sequencing of strange new microbes. In June 2026, I will be living out this dream by co-organising and teaching at MicroSEA, a protistology field course at Station Biologique de Roscoff, Bretagne, FR."
+  },
+  {
+    "objectID": "about.html#yana-eglit",
+    "href": "about.html#yana-eglit",
+    "title": "About",
+    "section": "",
+    "text": "Researcher specialising in protist diversity and evolution, with particular interest in the variety among eukaryotic cellular architecture. I believe unicellular protists are where cell biology is at its most exciting, as everything the organism needs must fit inside that cell. Currently a HFSP postdoctoral fellow in the Guichard/Hamel Lab at the University of Geneva, Switzerland, where I am learning super-resolution imaging techniques (like expansion microscopy) and how to apply them to non-model protists. Previously was a postdoc in the Gawryluk lab at the University of Victoria, where I cultivated marine anaerobic eukaryotes for investigating the evolution of adaptation to life at low oxygen. Completed my PhD in 2022 with Alastair G.B. Simpson in the Biology Department and Institute for Comparative Genomics at Dalhousie University, Halifax, NS, Canada, where I isolated, cultivated, and characterised novel branches of the Tree of Eukaryotes."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nTechnically, symbioses and general ecology make none of us truly self-sufficient↩︎"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Mysite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
