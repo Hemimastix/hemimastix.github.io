@@ -99,6 +99,8 @@ Work in progress (insert GeoCities-era-under-construction.gif). Made using Light
 ![](images/Meteora_Fig2H.jpg){.lightbox group="Drawings" description="Hand-drawn *Meteora* ultrastructure
 diagram, published as Figure 2H in [10.1016/j.cub.2023.12.032](https://doi.org/10.1016/j.cub.2023.12.032)"}
 
+![](images/FigureS5_Retortacarps2F_Cell-Sketches_FigS5.png){.lightbox group="Drawings" description="Drawings of *Skoliomonas litria* for [10.1111/jeu.13048](https://doi.org/10.1111/jeu.13048)"}
+
 ![](images/Art_SpiroFish.jpg){.lightbox group="Drawings" description="...if fishmongers sold hemimastigotes. Gouache."}
 
 ![](images/Art_Werebog_01-2.jpg){.lightbox group="Drawings" description="Night of the Werebog. Gouache."}
@@ -110,6 +112,7 @@ diagram, published as Figure 2H in [10.1016/j.cub.2023.12.032](https://doi.org/1
 ![](images/Art_RotF-1.jpg){.lightbox group="Drawings" description="Three cells of *Abollifer* sp.. Black and red ink on gesso board."}
 
 ![](images/Art_P1450880-2.jpg){.lightbox group="Drawings" description="*Anaeramoeba* baiting(?) a *Hemimastix* with a *Skoliomonas* flagellate. Black and red ink on gesso board."}
+
 
 
 :::
