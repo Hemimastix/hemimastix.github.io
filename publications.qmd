@@ -1,5 +1,16 @@
 ---
 title: "Publications"
+
+filters:
+  - lightbox
+lightbox:
+  - match: auto
+  - desc-position: bottom
+
 ---
 
+For a complete list of publications, see [my ORCID](https://orcid.org/0000-0002-2178-3062)
+
 <!-- add snippets of images from select papers -->
+
+<!-- **Selected publications** -->

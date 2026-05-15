@@ -1,7 +1,32 @@
 ---
-title: "Mysite"
+title: "Resources"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Techniques and Protocols
+
+### Expansion microscopy
+
+Detailed protocols with recommended reagents on the
+[Guichard/Hamel Lab site](https://mocel.unige.ch/research-groups/guichard-hamel/expansion-microscopy/protocols)
+
+**Reference publications:** [U-ExM](https://doi.org/10.1038/s41592-018-0238-1) (ultrastructure, 4x),
+[Cryo-ExM](https://doi.org/10.1038/s41592-021-01356-4) (cryo-fixed samples),
+[iU-ExM](https://doi.org/10.1038/s41467-023-43582-8) (iterative, 16x)
+
+**Usage examples:** [Plankton](https://doi.org/10.1016/j.cell.2025.09.027) (link to [dataset](https://github.com/Dey-Lab-Team/culture-collections_)),
+delicate [T-cell fixation using Cryo-ExM](https://doi.org/10.1016/j.celrep.2026.117165),
+[Euglena cytoskeleton](https://doi.org/10.26508/lsa.202403110) ([protocol](https://doi.org/10.1007/978-1-0716-5146-9_13)),
+
+**Training and workshops**: EMBL course and other resources on [Guichard/Hamel Lab site](https://mocel.unige.ch/research-groups/guichard-hamel/expansion-microscopy/exm-workshops)
+
+### Single-cell TEM
+
+[Single-cell TEM protocol](https://doi.org/10.1111/jeu.70061) for cells in environmental samples
+
+### Protist single-cell transcriptomics
+
+[My version of the protocol](/files/SingleCellTranscriptomeProtocol-v201804_GL.pdf) based on Smartseq2
+([Picelli et al. 2014](https://doi.org/10.1038/nprot.2014.006); [protocol PDF](/files/Nature_Protocols_Picelli-ea_2014_Smartseq2.pdf)) that was reworked for protists by Gordon Lax and Martin Kolisko
+ (quality check by cloning+Sanger no longer worthwhile in 2020s)
